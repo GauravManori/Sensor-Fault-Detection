@@ -33,9 +33,9 @@ image
 Deployment Architecture
 image
 
-Step 1: Clone the repository
+# Step 1: Clone the repository
 git clone https://github.com/sethusaim/Sensor-Fault-Detection.git
-Step 2- Create a conda environment after opening the repository
+# Step 2- Create a conda environment after opening the repository
 conda create -n sensor python=3.7.6 -y
 conda activate sensor
 Step 3 - Install the requirements
