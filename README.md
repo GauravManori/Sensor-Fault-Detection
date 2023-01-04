@@ -27,10 +27,10 @@ Before we run the project, make sure that you are having MongoDB in your local s
 Data Collections
 image
 
-Project Archietecture
+Project Architecture
 image
 
-Deployment Archietecture
+Deployment Architecture
 image
 
 Step 1: Clone the repository
